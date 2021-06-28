@@ -1,0 +1,50 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.idea/
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+docs/asset-manifest.json
+docs/favicon.ico
+docs/index.html
+docs/manifest.json
+docs/precache-manifest.9910cad913c1899724ce0a968a9630a0.js
+docs/static/css/2.637eb612.chunk.css
+docs/service-worker.js
+docs/static/js/2.af6eef2b.chunk.js
+docs/static/media/fontawesome-webfont.af7ae505.woff2
+docs/static/media/fontawesome-webfont.912ec66d.svg
+docs/static/media/fontawesome-webfont.674f50d2.eot
+docs/static/js/runtime-main.4862f1b0.js.map
+docs/static/js/runtime-main.4862f1b0.js
+docs/static/js/2.af6eef2b.chunk.js.map
+docs/static/js/main.fc3e922e.chunk.js
+docs/static/js/main.fc3e922e.chunk.js.map
+docs/static/media/fontawesome-webfont.b06871f2.ttf
+docs/static/media/fontawesome-webfont.fee66e71.woff
+docs/static/media/google.09aea0f5.svg
+docs/static/media/logo.3d432ca2.svg
+docs/static/css/2.637eb612.chunk.css.map
+changelog.md
+docs/static/js/2.af6eef2b.chunk.js.LICENSE.txt
+.prettierrc
+public/favicon.ico
