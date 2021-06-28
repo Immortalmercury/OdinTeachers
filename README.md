@@ -1,4 +1,4 @@
-# Odin Laboratory - Application for students
+# OdinLabs (Odin Laboratory - Application part for students)
 
 Built with [React Material Admin](https://github.com/flatlogic/react-material-admin) , [React](https://facebook.github.io/react/), [Material-UI](https://material-ui.com), [React Router](https://reacttraining.com/react-router/).
 **No jQuery and Bootstrap!**
